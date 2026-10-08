@@ -1,5 +1,11 @@
 # LocalBase
 
+
+
+https://github.com/user-attachments/assets/9879b0a3-1c2a-4f38-b2e8-c2eb4c533917
+
+
+
 ### Your self-hosted backend. Simple, local, and yours.
 
 **LocalBase** is a lightweight, self-hosted backend platform built entirely with Python, FastAPI, and SQLite.
