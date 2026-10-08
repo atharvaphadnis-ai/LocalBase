@@ -144,7 +144,7 @@ LocalBase itself does not require Node.js, npm, React, Electron, or a separate d
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/localbase.git
+git clone https://github.com/atharvaphadnis-ai/localbase.git
 cd localbase
 ```
 
