@@ -2,7 +2,8 @@
 
 
 
-https://github.com/user-attachments/assets/9879b0a3-1c2a-4f38-b2e8-c2eb4c533917
+<img width="1920" height="1080" alt="pyhton" src="https://github.com/user-attachments/assets/a2641cd4-4123-4c9b-8628-083acf9a180b" />
+
 
 
 
